@@ -11,8 +11,6 @@ El sistema de Aeropuerto WEB MMAA. Se dejo con un estimado de 3 meses, los cuale
 ## Retos
 Nos enfrentamos a distintos retos en su elaboración, al ser principiantes en la rama de desarrollo web, tuvimos varias problematicas, las cuales nos sirvieron de mucho para ir mejorando nuestros conimientos acerca de como estructurar un programa con difentes tecnologias. 
 
-## DOCUMENTACIÓN.
-
 ## Tecnologias aplicadas
 
 - HTML 5
