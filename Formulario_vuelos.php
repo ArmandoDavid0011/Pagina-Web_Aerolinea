@@ -104,7 +104,7 @@ http://www.tooplate.com/view/2093-flight
                                                 <input name="Empresa" type="text" placeholder="Empresa" class="">
                                                 <i class="col-md-6"></i>
                                             </label>
-                                            <label for="from"> Operador:
+                                            <label for="from"> Precio:
                                                 <br>
                                                 <input name="Precio" type="text" placeholder="Precio" class="">
                                                 <i class="col-md-6"></i>
