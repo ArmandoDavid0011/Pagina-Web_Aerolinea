@@ -1,14 +1,17 @@
-## Welcome to GitHub Pages
+## PROGRAMACIÓN WEB || Sistema de Aeropuerto || Observación de vuelos y Registro de usuarios.
 
-You can use the [editor on GitHub](https://github.com/ArmandoDavid0011/Pagina-Web_Aerolinea/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+En este apartado encontras un video explicativo base sobre como funciona el programa web [Video Explicativo](https://github.com/ArmandoDavid0011/Pagina-Web_Aerolinea/edit/gh-pages/index.md) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En el apartado superior izquerido habra un letrero que dice "FORK ME ON GITHUB" al darle Click te podra redireccionar al repositorio correspondiente de esta pagina, para poder ingresar a los documentos y elaborar tu mismo un Sistemas de Aeropuerto Web
 
-### Markdown
+### Introducción
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+El sistema de Aeropuerto WEB MMAA. Se dejo con un estimado de 3 meses, los cuales tuvimos que implementar una metodología la cual se pudiera adecuar a nuestras necesidades como desarrolladores, escogiendo la metodología Scrum para poder terminarlo. 
 
-```markdown
+## Retos
+Nos enfrentamos a distintos retos en su elaboración, al ser principiantes en la rama de desarrollo web, tuvimos varias problematicas, las cuales nos sirvieron de mucho para ir mejorando nuestros conimientos acerca de como estructurar un programa con difentes tecnologias. 
+
+```Tecnologias Aplicadas 
 Syntax highlighted code block
 
 # Header 1
