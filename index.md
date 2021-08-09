@@ -11,6 +11,8 @@ El sistema de Aeropuerto WEB MMAA. Se dejo con un estimado de 3 meses, los cuale
 ## Retos
 Nos enfrentamos a distintos retos en su elaboración, al ser principiantes en la rama de desarrollo web, tuvimos varias problematicas, las cuales nos sirvieron de mucho para ir mejorando nuestros conimientos acerca de como estructurar un programa con difentes tecnologias. 
 
+## DOCUMENTACIÓN.
+
 ## Tecnologias aplicadas
 
 - HTML 5
@@ -18,21 +20,18 @@ Nos enfrentamos a distintos retos en su elaboración, al ser principiantes en la
 - JavaScrip
 - PHP
 
+### Comentarios Finales
+Cuando inicie el proyecto, tenia un punto de vista muy diferente a lo que queria hacer, que a lo que esta por entregarse, entonces me di cuenta que el proyecta no se terminaria en 3 meses al menos que sea un programador nato, pero como soy principiante en esta rama, por lo menos siento que logre defenderme.
 
-1. Numbered
-2. List
+Pude darme cuenta que algunos proyectos llevan mas de 3 meses y que la metodologia que emplie si me sirvio, pero no la lleve acabo como era, ya que se presentavan diferentes problematicas tanto en lo cotidiano como en el ambito de desarrollo, como consecuencias el retraso de algunas funciones. 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArmandoDavid0011/Pagina-Web_Aerolinea/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Datos Generales
+### Alumno
+Armando David Camacho Merino
+### Profesor
+Kevin Armando Luciano Garcias
+### Escuela
+Universidad Interamericana para el Desarrollo
+### Proyecto
+Sistema de Aeropuerto MMAA
